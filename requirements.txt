@@ -1,2 +1,0 @@
-googlegenerative-ai
-streamlit
