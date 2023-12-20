@@ -4,6 +4,7 @@
 
 ### Authors
 - Muhammad Akram Dhaifullah ([@akramdhaifullah](https://www.github.com/akramdhaifullah))
+- Cheria Rindang Tri Andini
 
 ## About the app
 
